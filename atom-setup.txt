@@ -1,0 +1,29 @@
+https://www.youtube.com/c/Coreyms/videos
+
+Atom Python Environment
+
+Preferences -> Install -> Packages
+script -- run python code in Atom
+
+Preferences -> Install -> Themes
+predawn-syntax
+
+Preferences -> Editor
+Font Family = Source Code Pro (from Google Fonts)
+Scroll Past End = checked
+Tab Length = 4
+
+Preferences -> Packages
+autocomplete-plus = uncheck
+autocomplete-snippets = uncheck
+
+Preferences -> Install -> Packages
+autocomplete-python (local engine)
+file-icons
+minimap
+python-autopep8 (code formatter)
+ pip install autopep8
+ Settings -> Format on Save
+linter-flake8
+ pip install flake8
+
